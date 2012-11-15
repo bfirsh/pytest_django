@@ -1,6 +1,8 @@
 pytest_django
 =============
 
+**Note:** This version is unmaintained. You are probably looking for [Andreas Pelme's fork](https://github.com/pelme/pytest_django).
+
 pytest_django is a plugin for [py.test](http://pytest.org/) that provides a set of useful tools for testing [Django](http://www.djangoproject.com/) applications.
 
 Requires:
